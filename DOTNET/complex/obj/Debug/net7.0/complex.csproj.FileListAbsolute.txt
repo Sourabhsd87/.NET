@@ -1,0 +1,15 @@
+G:\Sourabh_Malhar_Lab\DOTNET\complex\obj\Debug\net7.0\complex.csproj.AssemblyReference.cache
+G:\Sourabh_Malhar_Lab\DOTNET\complex\obj\Debug\net7.0\complex.GeneratedMSBuildEditorConfig.editorconfig
+G:\Sourabh_Malhar_Lab\DOTNET\complex\obj\Debug\net7.0\complex.AssemblyInfoInputs.cache
+G:\Sourabh_Malhar_Lab\DOTNET\complex\obj\Debug\net7.0\complex.AssemblyInfo.cs
+G:\Sourabh_Malhar_Lab\DOTNET\complex\obj\Debug\net7.0\complex.csproj.CoreCompileInputs.cache
+G:\Sourabh_Malhar_Lab\DOTNET\complex\bin\Debug\net7.0\complex.exe
+G:\Sourabh_Malhar_Lab\DOTNET\complex\bin\Debug\net7.0\complex.deps.json
+G:\Sourabh_Malhar_Lab\DOTNET\complex\bin\Debug\net7.0\complex.runtimeconfig.json
+G:\Sourabh_Malhar_Lab\DOTNET\complex\bin\Debug\net7.0\complex.dll
+G:\Sourabh_Malhar_Lab\DOTNET\complex\bin\Debug\net7.0\complex.pdb
+G:\Sourabh_Malhar_Lab\DOTNET\complex\obj\Debug\net7.0\complex.dll
+G:\Sourabh_Malhar_Lab\DOTNET\complex\obj\Debug\net7.0\refint\complex.dll
+G:\Sourabh_Malhar_Lab\DOTNET\complex\obj\Debug\net7.0\complex.pdb
+G:\Sourabh_Malhar_Lab\DOTNET\complex\obj\Debug\net7.0\complex.genruntimeconfig.cache
+G:\Sourabh_Malhar_Lab\DOTNET\complex\obj\Debug\net7.0\ref\complex.dll

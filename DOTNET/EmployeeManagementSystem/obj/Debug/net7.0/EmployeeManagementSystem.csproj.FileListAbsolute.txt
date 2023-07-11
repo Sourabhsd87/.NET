@@ -1,0 +1,15 @@
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.AssemblyReference.cache
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.AssemblyInfo.cs
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.exe
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.deps.json
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.runtimeconfig.json
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.dll
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\bin\Debug\net7.0\EmployeeManagementSystem.pdb
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.dll
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\obj\Debug\net7.0\refint\EmployeeManagementSystem.dll
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.pdb
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\obj\Debug\net7.0\EmployeeManagementSystem.genruntimeconfig.cache
+G:\Sourabh_Malhar_Lab\DOTNET\EmployeeManagementSystem\obj\Debug\net7.0\ref\EmployeeManagementSystem.dll

@@ -1,0 +1,15 @@
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\bin\Debug\net7.0\E_commerse.exe
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\bin\Debug\net7.0\E_commerse.deps.json
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\bin\Debug\net7.0\E_commerse.runtimeconfig.json
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\bin\Debug\net7.0\E_commerse.dll
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\bin\Debug\net7.0\E_commerse.pdb
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\obj\Debug\net7.0\E_commerse.csproj.AssemblyReference.cache
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\obj\Debug\net7.0\E_commerse.GeneratedMSBuildEditorConfig.editorconfig
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\obj\Debug\net7.0\E_commerse.AssemblyInfoInputs.cache
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\obj\Debug\net7.0\E_commerse.AssemblyInfo.cs
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\obj\Debug\net7.0\E_commerse.csproj.CoreCompileInputs.cache
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\obj\Debug\net7.0\E_commerse.dll
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\obj\Debug\net7.0\refint\E_commerse.dll
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\obj\Debug\net7.0\E_commerse.pdb
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\obj\Debug\net7.0\E_commerse.genruntimeconfig.cache
+G:\Sourabh_Malhar_Lab\DOTNET\E_Commerce\E_commerse\E_commerse\obj\Debug\net7.0\ref\E_commerse.dll

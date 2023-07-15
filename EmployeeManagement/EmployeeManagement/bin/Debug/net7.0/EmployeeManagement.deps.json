@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EmployeeManagement/1.0.0": {
+        "dependencies": {
+          "EntityLib": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManagement.dll": {}
+        }
+      },
+      "Accounts/1.0.0": {
+        "runtime": {
+          "Accounts.dll": {}
+        }
+      },
+      "EntityLib/1.0.0": {
+        "dependencies": {
+          "Accounts": "1.0.0"
+        },
+        "runtime": {
+          "EntityLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accounts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

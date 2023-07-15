@@ -1,0 +1,12 @@
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\bin\Debug\net7.0\Accounts.deps.json
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\bin\Debug\net7.0\Accounts.dll
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\bin\Debug\net7.0\Accounts.pdb
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\obj\Debug\net7.0\Accounts.csproj.AssemblyReference.cache
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\obj\Debug\net7.0\Accounts.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\obj\Debug\net7.0\Accounts.AssemblyInfoInputs.cache
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\obj\Debug\net7.0\Accounts.AssemblyInfo.cs
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\obj\Debug\net7.0\Accounts.csproj.CoreCompileInputs.cache
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\obj\Debug\net7.0\Accounts.dll
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\obj\Debug\net7.0\refint\Accounts.dll
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\obj\Debug\net7.0\Accounts.pdb
+D:\dotNet\Day5_practice\EmployeeManagement\Accounts\obj\Debug\net7.0\ref\Accounts.dll

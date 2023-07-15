@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EntityLib/1.0.0": {
+        "dependencies": {
+          "Accounts": "1.0.0"
+        },
+        "runtime": {
+          "EntityLib.dll": {}
+        }
+      },
+      "Accounts/1.0.0": {
+        "runtime": {
+          "Accounts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntityLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accounts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\obj\Debug\net7.0\EntityLib.csproj.AssemblyReference.cache
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\obj\Debug\net7.0\EntityLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\obj\Debug\net7.0\EntityLib.AssemblyInfoInputs.cache
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\obj\Debug\net7.0\EntityLib.AssemblyInfo.cs
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\obj\Debug\net7.0\EntityLib.csproj.CoreCompileInputs.cache
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\bin\Debug\net7.0\EntityLib.deps.json
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\bin\Debug\net7.0\EntityLib.dll
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\bin\Debug\net7.0\EntityLib.pdb
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\bin\Debug\net7.0\Accounts.dll
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\bin\Debug\net7.0\Accounts.pdb
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\obj\Debug\net7.0\EntityLib.csproj.CopyComplete
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\obj\Debug\net7.0\EntityLib.dll
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\obj\Debug\net7.0\refint\EntityLib.dll
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\obj\Debug\net7.0\EntityLib.pdb
+D:\dotNet\Day5_practice\EmployeeManagement\EntityLib\obj\Debug\net7.0\ref\EntityLib.dll

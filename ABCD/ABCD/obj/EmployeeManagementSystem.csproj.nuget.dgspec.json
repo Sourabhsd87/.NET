@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotNet\\Day7_practice\\ABCD\\ABCD\\EmployeeManagementSystem.csproj": {}
+    "D:\\dotNet\\Day7_practice\\New folder\\.NET\\ABCD\\ABCD\\EmployeeManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\dotNet\\Day7_practice\\ABCD\\ABCD\\EmployeeManagementSystem.csproj": {
+    "D:\\dotNet\\Day7_practice\\New folder\\.NET\\ABCD\\ABCD\\EmployeeManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNet\\Day7_practice\\ABCD\\ABCD\\EmployeeManagementSystem.csproj",
+        "projectUniqueName": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\ABCD\\ABCD\\EmployeeManagementSystem.csproj",
         "projectName": "EmployeeManagementSystem",
-        "projectPath": "D:\\dotNet\\Day7_practice\\ABCD\\ABCD\\EmployeeManagementSystem.csproj",
+        "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\ABCD\\ABCD\\EmployeeManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Sourabh\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNet\\Day7_practice\\ABCD\\ABCD\\obj\\",
+        "outputPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\ABCD\\ABCD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sourabh\\AppData\\Roaming\\NuGet\\NuGet.Config",

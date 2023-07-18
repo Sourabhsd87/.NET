@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\EntityLib\\EntityLib.csproj",
+      "projectUniqueName": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\EntityLib\\EntityLib.csproj",
       "projectName": "EntityLib",
-      "projectPath": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\EntityLib\\EntityLib.csproj",
+      "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\EntityLib\\EntityLib.csproj",
       "packagesPath": "C:\\Users\\Sourabh\\.nuget\\packages\\",
-      "outputPath": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\EntityLib\\obj\\",
+      "outputPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\EntityLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sourabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\dotNet\\Day5_practice\\EmployeeManagement\\Accounts\\Accounts.csproj": {
-              "projectPath": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\Accounts\\Accounts.csproj"
+            "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\Accounts\\Accounts.csproj": {
+              "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\Accounts\\Accounts.csproj"
             }
           }
         }

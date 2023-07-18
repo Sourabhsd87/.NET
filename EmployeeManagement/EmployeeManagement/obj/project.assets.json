@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectUniqueName": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
       "projectName": "EmployeeManagement",
-      "projectPath": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement.csproj",
       "packagesPath": "C:\\Users\\Sourabh\\.nuget\\packages\\",
-      "outputPath": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\EmployeeManagement\\obj\\",
+      "outputPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\EmployeeManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sourabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\dotNet\\Day5_practice\\EmployeeManagement\\EntityLib\\EntityLib.csproj": {
-              "projectPath": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\EntityLib\\EntityLib.csproj"
+            "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\EntityLib\\EntityLib.csproj": {
+              "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\EntityLib\\EntityLib.csproj"
             }
           }
         }

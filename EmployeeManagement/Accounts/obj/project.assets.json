@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\Accounts\\Accounts.csproj",
+      "projectUniqueName": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\Accounts\\Accounts.csproj",
       "projectName": "Accounts",
-      "projectPath": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\Accounts\\Accounts.csproj",
+      "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\Accounts\\Accounts.csproj",
       "packagesPath": "C:\\Users\\Sourabh\\.nuget\\packages\\",
-      "outputPath": "D:\\dotNet\\Day5_practice\\EmployeeManagement\\Accounts\\obj\\",
+      "outputPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\EmployeeManagement\\Accounts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sourabh\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,6 +11,10 @@ namespace ABCD.Controllers
 {
     public class HomeController : Controller
     {
+        string file = @"D:\dotNet\Day7_practice\New folder\.NET\ABCD\employeeData.json";
+        List<Employee> list = new List<Employee>();
+
+        //list = Serializing.deserialize(file);
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -38,14 +42,22 @@ namespace ABCD.Controllers
         [HttpPost]
         public IActionResult Login(string email,string password)
         {
-            Console.WriteLine("in login controller");
-            if(email=="sdsd@gmail.com" && password=="sdsdsd")
+            list = Serializing.deserialize(file);
+            foreach(Employee e in list)
             {
-                Console.WriteLine("in sdsd");
-                return RedirectToAction("Index");
+                if(e.email == email && e.password == password)
+                {
+                    Console.WriteLine("Logged in  Successfully");
+                }
             }
+            //Console.WriteLine("in login controller");
+            //if(email=="sdsd@gmail.com" && password=="sdsdsd")
+            //{
+            //    Console.WriteLine("in sdsd");
+            //    return RedirectToAction("Index");
+            //}
 
-            return View();
+            return RedirectToAction("Index");
 
         }
         public IActionResult Register()
@@ -57,9 +69,9 @@ namespace ABCD.Controllers
         [HttpPost]
         public IActionResult Register(string firstName,string lastName,string email,string password,string contactNo) {
 
+            list = Serializing.deserialize(file);
 
             Employee e = new Employee(firstName, lastName, email, password,contactNo);
-            List<Employee> list = new List<Employee>();
             list.Add(e);
             //var option = new JsonSerializerOptions { IncludeFields = true };
             //var empjson = JsonSerializer.Serialize<List<Employee>>(list, option);

@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\dotNet\Day7_practice\New folder\.NET\ABCD\ABCD
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/dotNet/Day7_practice/New folder/.NET/ABCD/ABCD/Views/Home/GetAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/dotNet/Day7_practice/New folder/.NET/ABCD/ABCD/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

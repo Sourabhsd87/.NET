@@ -40,14 +40,15 @@ namespace ABCD.Controllers
 
         }
         [HttpPost]
-        public IActionResult Login(string email,string password)
+        public IActionResult LoginPage(string email,string password)
         {
             list = Serializing.deserialize(file);
             foreach(Employee e in list)
             {
                 if(e.email == email && e.password == password)
                 {
-                    Console.WriteLine("Logged in  Successfully");
+                    ViewData["EmployeeName"]=e.FirstName+" "+e.LastName;
+                    return View();
                 }
             }
             //Console.WriteLine("in login controller");
@@ -62,7 +63,6 @@ namespace ABCD.Controllers
         }
         public IActionResult Register()
         {
-
             return View();
         }
 
@@ -80,6 +80,34 @@ namespace ABCD.Controllers
             Serializing.serialize(list);
 
             return RedirectToAction("Login");
+        }
+
+        public IActionResult GetAll()
+        {
+            list= Serializing.deserialize(file);
+            ViewBag.Employees=list;
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Delete(string delete) {
+            Console.WriteLine("1");
+            Console.WriteLine(delete);
+            list = Serializing.deserialize(file);
+            Employee e = new Employee();
+            foreach (var emp in list)
+            {
+                Console.WriteLine("2");
+                if (emp.FirstName == delete)
+                {
+                    Console.WriteLine("3");
+                    e = emp; break;
+                }
+            }
+
+            Console.WriteLine("4");
+            list.Remove(e);
+            Serializing.serialize(list);
+            return RedirectToAction("GetAll");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

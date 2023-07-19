@@ -110,6 +110,24 @@ namespace ABCD.Controllers
             return RedirectToAction("GetAll");
         }
 
+        [HttpPost]
+        public IActionResult update(string update) {
+            list = Serializing.deserialize(file);
+            Employee e = new Employee();
+            foreach (var emp in list)
+            {
+                Console.WriteLine("2");
+                if (emp.FirstName == update)
+                {
+                    Console.WriteLine("3");
+                    e = emp; break;
+                }
+            }
+            ViewBag.emp = e;
+            return View();
+
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

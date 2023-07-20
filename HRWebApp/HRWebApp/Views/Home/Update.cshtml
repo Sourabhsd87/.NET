@@ -1,0 +1,44 @@
+﻿@using BOL;
+
+    
+<div>
+    @{
+        Employee e = ViewBag.Employee;
+    <form action="/Home/UpdateEmp" method="post">
+        <div class="mb-3">
+            <label for="id" class="form-label">Id</label>
+            <input type="text" class="form-control" id="id" name="id" value="@e.ID" readonly>
+
+        </div>
+        <div class="mb-3">
+            <label for="empname" class="form-label">Name</label>
+                <input type="text" class="form-control" id="empname" name="empname" value="@e.EMPNAME">
+
+        </div>
+        <div class="mb-3">
+            <label for="designation" class="form-label" >designation</label>
+                <input type="text" class="form-control" id="designation" name="designation" value="@e.DESIGNATION" >
+
+        </div>
+        <div class="mb-3">
+            <label for="Department" class="form-label">Department</label>
+                <input type="text" class="form-control" id="Department" name="department" value="@e.DEPARTMENT" >
+
+        </div>
+        <div class="mb-3">
+            <label for="city" class="form-label">City</label>
+                <input type="text" class="form-control" id="city" name="city" value="@e.CITY" >
+
+        </div>
+        <div class="mb-3">
+            <label for="salary" class="form-label">Salary</label>
+                <input type="text" class="form-control" id="salary" name="salary" value="@e.SALARY" >
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">I am from .......</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    }
+</div>

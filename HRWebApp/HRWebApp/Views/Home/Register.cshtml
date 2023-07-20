@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Register Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">New Registeration</h1>
+</div>
+<div>
+    <form action="/Home/Register" method="post">
+        <div class="mb-3">
+            <label for="id" class="form-label">Id</label>
+            <input type="text" class="form-control" id="id" name="id" required>
+            
+        </div>
+        <div class="mb-3">
+            <label for="empname" class="form-label">Name</label>
+            <input type="text" class="form-control" id="empname" name="empname" required>
+
+        </div>
+        <div class="mb-3">
+            <label for="designation" class="form-label">designation</label>
+            <input type="text" class="form-control" id="designation" name="designation" required>
+
+        </div>
+        <div class="mb-3">
+            <label for="Department" class="form-label">Department</label>
+            <input type="text" class="form-control" id="Department" name="department" required>
+
+        </div>
+        <div class="mb-3">
+            <label for="city" class="form-label">City</label>
+            <input type="text" class="form-control" id="city" name="city" required>
+
+        </div>
+        <div class="mb-3">
+            <label for="salary" class="form-label">Joining date</label>
+            <input type="text" class="form-control" id="salary" name="salary" required>
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">I am from .......</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Register</button>
+    </form>
+</div>
+

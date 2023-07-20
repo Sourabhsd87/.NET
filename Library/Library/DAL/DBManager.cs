@@ -62,7 +62,7 @@ namespace DAL
                     string NAME = reader["book_name"].ToString();
                     string AUTHOR = reader["author"].ToString();
                     DateTime DATE = DateTime.Parse(reader["publishDate"].ToString());
-                    double PRICE = reader["price"].ToString();
+                    double PRICE = double.Parse( reader["price"].ToString());
                     BOOK = new Book(ID, NAME, AUTHOR, DATE, PRICE);
                     return BOOK;
                 }

@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Delete Employee</h1>
+</div>
+
+<form action="/Home/Delete" method="post">
+        <div class="mb-3">
+            <label for="id" class="form-label">Id</label>
+            <input type="text" class="form-control" id="id" name="id" required>
+            
+        </div>
+    <button type="submit" class="btn btn-primary">Delete</button>
+</form>

@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["title"] = "Employees";
+}
+<div class="text-center">
+    <h1 class="display-4">List of Employees</h1>
+</div>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Employee Name</th>
+                <th scope="col">Designation</th>
+                <th scope="col">Department</th>
+                <th scope="col">City</th>
+                <th scope="col">Salary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                @foreach (var e in ViewBag.EmployeeList)
+                {
+                    <tr>
+                        <td>@e.ID</td>
+                        <td>@e.EMPNAME</td>
+                        <td>@e.DESIGNATION</td>
+                        <td>@e.DEPARTMENT</td>
+                        <td>@e.CITY</td>
+                        <td>@e.SALARY</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <form action="/Home/Update" method="post">
+        <div class="mb-3">
+            <label for="id" class="form-label">ID</label>
+            <input type="text" class="form-control" id="id" name="id" required>
+
+        </div>
+        <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+</div>
+
+

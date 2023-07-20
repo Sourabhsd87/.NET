@@ -1,0 +1,15 @@
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\bin\Debug\net7.0\DAL.dll
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\bin\Debug\net7.0\DAL.pdb
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\bin\Debug\net7.0\BOL.dll
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\bin\Debug\net7.0\BOL.pdb
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\obj\Debug\net7.0\DAL.dll
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\obj\Debug\net7.0\DAL.pdb
+D:\dotNet\Day7_practice\New folder\.NET\Library\Library\DAL\obj\Debug\net7.0\ref\DAL.dll

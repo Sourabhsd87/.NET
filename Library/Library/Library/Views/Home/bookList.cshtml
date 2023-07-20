@@ -1,0 +1,48 @@
+﻿@using BOL;
+@{
+    ViewData["Title"] = "in get all";
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Sr</th>
+            <th scope="col">Book Name</th>
+            <th scope="col">Author</th>
+            <th scope="col">Publish Date</th>
+            <th scope="col">price</th>
+        </tr>
+    </thead>
+    <tbody>
+
+
+        @{
+            @foreach (var b in ViewBag.booklist){
+        <tr>
+                    <th>@b.ID</th>
+                    <td>@b.BOOKNAME</td>
+                    <td>@b.AUTHOR</td>
+                    <td>@b.PUBLISHDATE</td>
+                    <td>@b.PRICE</td>
+        </tr>
+            }
+        }
+        @*<tr>
+            <th scope="row">2</th>
+            <td>Jacob</td>
+            <td>Thornton</td>
+            <td>@fat</td>
+        </tr>
+        <tr>
+            <th scope="row">3</th>
+            <td colspan="2">Larry the Bird</td>
+            <td>@twitter</td>
+        </tr>*@
+    </tbody>
+</table>
+
+
+@*private int id;
+        private string bookName;
+        private string author;
+        private DateTime publishDate;
+        private double price;*@

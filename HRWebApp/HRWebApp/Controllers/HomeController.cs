@@ -35,9 +35,9 @@ namespace HRWebApp.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Register(string id, string empname, string designation, string department, string city, string salary) {
+        public IActionResult Register(string id, string empname, string designation, string department, string city, string salary,string joindate) {
 
-            Employee employee= new Employee(int.Parse(id), empname, designation,Enum.Parse<Department>(department), city,Double.Parse(salary));
+            Employee employee= new Employee(int.Parse(id), empname, designation,Enum.Parse<Department>(department), city,double.Parse(salary),DateOnly.Parse(joindate));
 
             DBManager.insertEmployee(employee);
 
@@ -70,9 +70,9 @@ namespace HRWebApp.Controllers
             return RedirectToAction("Index");
         }
        
-        public IActionResult UpdateEmp(string id, string empname, string designation, string department, string city, string salary)
+        public IActionResult UpdateEmp(string id, string empname, string designation, string department, string city, string salary,string joindate)
         {
-            Employee e = new Employee(int.Parse(id),empname,designation,Enum.Parse<Department>(department),city,Double.Parse(salary));
+            Employee e = new Employee(int.Parse(id),empname,designation,Enum.Parse<Department>(department),city,Double.Parse(salary),DateOnly.Parse(joindate));
             DBManager.UpdateEmp(e);
             return RedirectToAction("Employees");
         }

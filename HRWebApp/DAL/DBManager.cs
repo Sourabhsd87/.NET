@@ -30,7 +30,8 @@ namespace DAL
                     Department department = Enum.Parse<Department>(reader["department"].ToString());
                     string city = reader["city"].ToString();
                     double salary = double.Parse(reader["salary"].ToString());
-                    Employee newemployee = new Employee(id, empname, designation, department, city, salary);
+                    DateOnly joindate = DateOnly.Parse(reader["joindate"].ToString().Substring(0,10));
+                    Employee newemployee = new Employee(id, empname, designation, department, city, salary,joindate);
                     employees.Add(newemployee);
                 }
 
@@ -52,7 +53,7 @@ namespace DAL
                 conn.Open();
                 MySqlCommand cmd = new MySqlCommand();
                 cmd.Connection = conn;
-                string query = "insert into employees values('" + newemployee.ID + "','" + newemployee.EMPNAME + "','" + newemployee.DESIGNATION + "','" + newemployee.DEPARTMENT + "','" + newemployee.CITY + "','" + newemployee.SALARY + "')";
+                string query = "insert into employees values('" + newemployee.ID + "','" + newemployee.EMPNAME + "','" + newemployee.DESIGNATION + "','" + newemployee.DEPARTMENT + "','" + newemployee.CITY + "','" + newemployee.SALARY +"','"+newemployee.JOINDATE.ToString("yyyy-MM-dd") + "')";
                 cmd.CommandText = query;
                 int rowsAffected = cmd.ExecuteNonQuery();
                 Console.WriteLine(rowsAffected + " rows inserted.");
@@ -104,7 +105,8 @@ namespace DAL
                     Department department = Enum.Parse<Department>(reader["department"].ToString());
                     string city = reader["city"].ToString();
                     double salary = double.Parse(reader["salary"].ToString());
-                    newemployee = new Employee(empid, empname, designation, department, city, salary);
+                    DateOnly joindate = DateOnly.Parse(reader["joindate"].ToString());
+                    newemployee = new Employee(empid, empname, designation, department, city, salary,joindate);
                 }
 
             }
@@ -123,7 +125,7 @@ namespace DAL
                 conn.Open();
                 MySqlCommand cmd = new MySqlCommand();
                 cmd.Connection = conn;
-                string query = "UPDATE employees SET empname='"+emp.EMPNAME+"',designation='"+emp.DESIGNATION+"',department='"+emp.DEPARTMENT+ "',city='"+emp.CITY+"',salary='"+emp.SALARY+"'WHERE id="+emp.ID;
+                string query = "UPDATE employees SET empname='"+emp.EMPNAME+"',designation='"+emp.DESIGNATION+"',department='"+emp.DEPARTMENT+ "',city='"+emp.CITY+"',salary='"+emp.SALARY+"',joindate='"+emp.JOINDATE.ToString("yyyy-MM-dd") + "' WHERE id="+emp.ID;
                 cmd.CommandText = query;
                 cmd.ExecuteNonQuery();
             }

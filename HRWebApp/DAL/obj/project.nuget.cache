@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SzgIM2aUz4JJAq+rpZB52oysa5k+HStBwe4QSkbqDi7Y0ian/6l+rRAp7+VCXp3W6HkLjBeupLFp3+pqD+vgJQ==",
+  "dgSpecHash": "qTpvMoZppt0/xkZ7nbNfdQNfHG+RSa5XsApsWpAg54LPsGUSRj2zRCmptgLxafMKJluTmrsU0Cow3QWaAHXX2g==",
   "success": true,
-  "projectFilePath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\DAL\\DAL.csproj",
+  "projectFilePath": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sourabh\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\Sourabh\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",

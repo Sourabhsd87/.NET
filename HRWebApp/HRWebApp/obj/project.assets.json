@@ -1822,11 +1822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\HRWebApp\\HRWebApp.csproj",
+      "projectUniqueName": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\HRWebApp\\HRWebApp.csproj",
       "projectName": "HRWebApp",
-      "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\HRWebApp\\HRWebApp.csproj",
+      "projectPath": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\HRWebApp\\HRWebApp.csproj",
       "packagesPath": "C:\\Users\\Sourabh\\.nuget\\packages\\",
-      "outputPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\HRWebApp\\obj\\",
+      "outputPath": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\HRWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sourabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1844,11 +1844,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\BOL\\BOL.csproj": {
-              "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\BOL\\BOL.csproj"
+            "D:\\dotNet\\GIT\\.NET\\HRWebApp\\BOL\\BOL.csproj": {
+              "projectPath": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\BOL\\BOL.csproj"
             },
-            "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\DAL\\DAL.csproj": {
-              "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\DAL\\DAL.csproj"
+            "D:\\dotNet\\GIT\\.NET\\HRWebApp\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\DAL\\DAL.csproj"
             }
           }
         }

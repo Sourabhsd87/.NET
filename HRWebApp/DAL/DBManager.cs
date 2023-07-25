@@ -105,7 +105,7 @@ namespace DAL
                     Department department = Enum.Parse<Department>(reader["department"].ToString());
                     string city = reader["city"].ToString();
                     double salary = double.Parse(reader["salary"].ToString());
-                    DateOnly joindate = DateOnly.Parse(reader["joindate"].ToString());
+                    DateOnly joindate = DateOnlyf.Parse(reader["joindate"].ToString());
                     newemployee = new Employee(empid, empname, designation, department, city, salary,joindate);
                 }
 

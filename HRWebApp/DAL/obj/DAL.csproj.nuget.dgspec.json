@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\DAL\\DAL.csproj": {}
+    "D:\\dotNet\\GIT\\.NET\\HRWebApp\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\BOL\\BOL.csproj": {
+    "D:\\dotNet\\GIT\\.NET\\HRWebApp\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\BOL\\BOL.csproj",
+        "projectUniqueName": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\BOL\\BOL.csproj",
+        "projectPath": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\BOL\\BOL.csproj",
         "packagesPath": "C:\\Users\\Sourabh\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\BOL\\obj\\",
+        "outputPath": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\BOL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sourabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\DAL\\DAL.csproj": {
+    "D:\\dotNet\\GIT\\.NET\\HRWebApp\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\DAL\\DAL.csproj",
+        "projectPath": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Sourabh\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\DAL\\obj\\",
+        "outputPath": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sourabh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\BOL\\BOL.csproj": {
-                "projectPath": "D:\\dotNet\\Day7_practice\\New folder\\.NET\\HRWebApp\\BOL\\BOL.csproj"
+              "D:\\dotNet\\GIT\\.NET\\HRWebApp\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\dotNet\\GIT\\.NET\\HRWebApp\\BOL\\BOL.csproj"
               }
             }
           }
